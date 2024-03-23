@@ -1,0 +1,17 @@
+Step - download and install git 
+https://git-scm.com/downloads
+
+Step-2 
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+Step - 3
+https://github.com/new
+
+Step 4
+echo "# git2024" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Minskoleopc/git2024.git
+git push -u origin main
